@@ -1,0 +1,9 @@
+
+  .header-component {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red;
+  }
+  
